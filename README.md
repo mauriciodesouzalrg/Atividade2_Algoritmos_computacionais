@@ -3,16 +3,23 @@
 📌 Sobre o Projeto
 
 Este projeto é um sistema de pedidos em linguagem C que simula um restaurante interativo no terminal.
+
 O usuário pode escolher pratos, bebidas e sobremesas, confirmar cada item e visualizar seu pedido antes de finalizar.
 
 🚀 Funcionalidades
 
 ✨ Exibe uma mensagem inicial com instruções.
+
 🍲 Escolha de pratos.
+
 🥤 Escolha de bebidas.
+
 🍰 Escolha de sobremesas.
+
 ✅ Confirmação de cada item antes de adicionar ao pedido.
+
 📝 Visualização do pedido parcial a qualquer momento.
+
 💳 Finalização e confirmação do pedido para pagamento.
 
 🛠️ Tecnologias Utilizadas
