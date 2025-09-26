@@ -18,6 +18,6 @@ Aprendizados:
 - Uso de sprintf para copiar strings em arrays.
 - Estrutura de confirmação de escolhas (sim/não).
 
-Autor: [Seu Nome]
-Data: [Data de criação]
+Autor: [Mauricio]
+Data: [25/09/2025]
 */
