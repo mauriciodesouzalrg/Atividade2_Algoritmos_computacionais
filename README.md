@@ -35,7 +35,11 @@ Função sprintf para copiar strings
 
 Com este projeto, foi possível praticar:
 🔹 Criação de menus interativos no terminal.
+
 🔹 Estruturas de decisão e repetição em C.
+
 🔹 Armazenamento e manipulação de strings em arrays.
+
 🔹 Confirmação de escolhas para evitar erros do usuário.
+
 🔹 Organização e indentação de código para facilitar a leitura.
