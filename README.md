@@ -34,6 +34,7 @@ Função sprintf para copiar strings
 📚 Aprendizados
 
 Com este projeto, foi possível praticar:
+
 🔹 Criação de menus interativos no terminal.
 
 🔹 Estruturas de decisão e repetição em C.
