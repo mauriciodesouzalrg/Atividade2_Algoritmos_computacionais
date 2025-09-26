@@ -51,3 +51,8 @@ Com este projeto, foi possível praticar:
 🔹 Confirmação de escolhas para evitar erros do usuário.
 
 🔹 Organização e indentação de código para facilitar a leitura.
+
+## ▶️ Como Executar
+1. Compile o código:
+   ```bash
+   gcc main.c -o restaurante
