@@ -1,4 +1,5 @@
 🍽️ Sistema de Pedidos de Restaurante em C
+
 📌 Sobre o Projeto
 
 Este projeto é um sistema de pedidos em linguagem C que simula um restaurante interativo no terminal.
